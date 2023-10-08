@@ -1,0 +1,1 @@
+export { isObjectProperty } from "./isObjectProperty";

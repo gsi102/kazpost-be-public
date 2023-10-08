@@ -1,0 +1,1 @@
+export { parseIdFromHref } from "./parseIdFromHref";

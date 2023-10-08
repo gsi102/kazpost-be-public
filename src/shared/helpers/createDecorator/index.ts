@@ -1,0 +1,1 @@
+export { createDecorator } from "./createDecorator";
